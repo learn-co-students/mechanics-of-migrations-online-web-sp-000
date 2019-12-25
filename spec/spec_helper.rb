@@ -1,4 +1,5 @@
 require_relative '../config/environment'
+require_relative './spec/spec_helper.rb'
 require 'rake'
 load './Rakefile'
 
