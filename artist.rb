@@ -1,1 +1,2 @@
-test
+class Artist  < ActiveRecord::Base
+end
