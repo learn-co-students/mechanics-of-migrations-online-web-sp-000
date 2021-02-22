@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "activerecord", "~> 5.0.7.2", :require => "active_record"
+gem "activerecord", "~> 5.2.3", :require => "active_record"
 gem "rake"
 gem "require_all"
 gem "sqlite3"
